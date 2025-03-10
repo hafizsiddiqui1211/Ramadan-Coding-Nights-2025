@@ -1,3 +1,6 @@
+### `README.md` for Your Unit Converter App  
+
+```md
 # Unit Converter by Hafiz Siddiqui  
 
 This is a simple unit conversion app built using **Streamlit**. It allows users to convert values between different units, such as kilometers to meters, meters to kilometers, kilograms to grams, and grams to kilograms.  
@@ -12,22 +15,28 @@ This is a simple unit conversion app built using **Streamlit**. It allows users 
 To run this application locally, follow these steps:  
 
 1. **Clone the repository**  
+   ```sh
    git clone https://github.com/yourusername/unit-converter.git
    cd unit-converter
- 
+   ```  
+
 2. **Create a virtual environment (optional but recommended)**  
+   ```sh
    python -m venv env
    source env/bin/activate  # For macOS/Linux
    env\Scripts\activate     # For Windows
- 
+   ```  
 
 3. **Install dependencies**  
+   ```sh
    pip install -r requirements.txt
+   ```  
 
 ## 🏃‍♂️ Usage  
 Run the Streamlit app using the following command:  
+```sh
 streamlit run app.py
-
+```  
 This will open the app in your web browser.  
 
 ## 🔧 How It Works  
@@ -48,6 +57,9 @@ This will open the app in your web browser.
 **Hafiz Siddiqui**  
 
 ## 📜 License  
-This project is open-source and free to use.
+This project is open-source and available under the [MIT License](LICENSE).  
 
 Happy Coding! 🚀🎉
+```
+
+Agar koi aur modification chahiye to batao! 🚀
