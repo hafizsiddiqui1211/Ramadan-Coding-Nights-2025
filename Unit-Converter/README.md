@@ -1,6 +1,3 @@
-### `README.md` for Your Unit Converter App  
-
-```md
 # Unit Converter by Hafiz Siddiqui  
 
 This is a simple unit conversion app built using **Streamlit**. It allows users to convert values between different units, such as kilometers to meters, meters to kilometers, kilograms to grams, and grams to kilograms.  
@@ -57,9 +54,7 @@ This will open the app in your web browser.
 **Hafiz Siddiqui**  
 
 ## 📜 License  
-This project is open-source and available under the [MIT License](LICENSE).  
+This project is open-source and free to use.
 
 Happy Coding! 🚀🎉
-```
 
-Agar koi aur modification chahiye to batao! 🚀
