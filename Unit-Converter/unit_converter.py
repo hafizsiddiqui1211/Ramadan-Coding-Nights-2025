@@ -18,7 +18,7 @@ def convert_units(value, unit_from, unit_to):
         return None
 
 st.set_page_config(page_title="📊 Unit Converter", layout="wide")
-st.title("Unit Converter by Hafiz Siddiqui")
+st.title("📊 Unit Converter by Hafiz Siddiqui")
 st.info("This app converts values between different units 📊")
 value = st.number_input("Enter the value for Conversion:")
 unit_from = st.selectbox(
