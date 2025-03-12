@@ -12,7 +12,7 @@ def password_generator(length, use_digits, use_special):
     return "".join(rd.choice(characters) for _ in range(length))
 
 
-st.set_page_config(page_title="🔑 Password Generator", layout="wide")
+st.set_page_config(page_title="🔑 Password Generator", layout="centered")
 st.title("🔑 Password Generator by Hafiz Siddiqui")
 
 length = st.slider("Select the length of your password",
