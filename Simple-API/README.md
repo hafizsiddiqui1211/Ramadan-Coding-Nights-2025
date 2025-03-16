@@ -79,5 +79,5 @@ GET http://127.0.0.1:8000/money_quotes?apikey=123456789
 - The endpoint `/money_quotews` has a typo in the original code; it should be corrected to `/money_quotes`.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and free to use.
 
