@@ -1,5 +1,3 @@
-Here’s the content for your `README.md` file:  
-
 ```markdown
 # 💱 Money Making Machine
 
@@ -40,4 +38,4 @@ Developed by **Hafiz Siddiqui**.
 This project is open-source and free to use.
 ```
 
-This `README.md` provides a clear overview of your project, setup instructions, known issues, and credits. 🚀 Let me know if you need any modifications!
+modifications!
