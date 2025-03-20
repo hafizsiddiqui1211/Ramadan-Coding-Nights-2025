@@ -1,4 +1,4 @@
-```markdown
+
 # 💱 Money Making Machine
 
 A fun and interactive Streamlit app that generates random money, provides side hustle ideas, and displays motivational money-related quotes.
