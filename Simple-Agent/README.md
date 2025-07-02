@@ -100,7 +100,7 @@ Salam from Hafiz Siddiqui
 
 ## ✍️ Author
 
-**Hafiz Wildan Siddiqui**
+**Hafiz Wildan Ahmed Siddiqui**
 _Contact me for help or customization._
 
 ---
