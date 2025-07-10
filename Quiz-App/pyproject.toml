@@ -1,0 +1,12 @@
+[project]
+name = "quiz-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit",
+    "blinker>=1.9.0",
+    "tornado>=6.5.1",
+    "typing-extensions>=4.14.1",
+]
