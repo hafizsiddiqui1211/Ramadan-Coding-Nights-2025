@@ -36,8 +36,8 @@ money_quotes = ["The way to get started is to quit talking and begin doing. – 
                 "Money grows on the tree of persistence. – Japanese Proverb"]
 
 
-@app.get("/side_hustles")
-def get_side_hustles(apikey: str):
+@app.get("/money_quotes")  # ✅ Corrected spelling
+def get_money_quotes(apikey: str):
     """Return a random side hustle idea."""
     if apikey != "123456789":
         return {"error": "Invalid API Key"}
