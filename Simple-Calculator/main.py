@@ -38,7 +38,7 @@ def main():
                 symbol = "×"
             else:  # Division
                 if num2 == 0:
-                    st.warning("⚠️ Error: Division by zero!")
+                    st.warning("⚠️ Error: Division by zero is not possible!")
                     return
                 result = num1 / num2
                 symbol = "÷"
