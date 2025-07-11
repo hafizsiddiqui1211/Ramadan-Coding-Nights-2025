@@ -19,7 +19,7 @@ def main():
         num2 = st.number_input("Enter second number", value=0)
 
     # Operation selection
-    operation = st.selectbox(
+    operation = st.radio(
         "Choose operation",
         ["Addition (+)", "Subtraction (-)", "Multiplication (×)", "Division (÷)"],
     )
