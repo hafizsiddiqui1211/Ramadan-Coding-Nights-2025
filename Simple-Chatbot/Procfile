@@ -1,1 +1,1 @@
-web: chainlit run app.py -p $PORT --headless
+web: chainlit run app.py -p $PORT --host 0.0.0.0 --headless
