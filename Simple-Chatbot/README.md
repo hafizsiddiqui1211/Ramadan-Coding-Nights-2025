@@ -22,10 +22,7 @@ import chainlit as ct
 async def main(message: ct.Message):
     response = f"You said {message.content}"
     await ct.Message(content=response).send()
-```
-````
 
----
 
 ## 🛠️ Installation & Setup
 
@@ -71,6 +68,4 @@ Bot:  You said Hello!
 Developed by **Hafiz Siddiqui**.
 For more about Chainlit, see [https://docs.chainlit.io](https://docs.chainlit.io).
 
-```
 
-```
