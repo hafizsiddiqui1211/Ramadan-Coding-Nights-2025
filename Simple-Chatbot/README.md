@@ -15,7 +15,7 @@ It demonstrates how to create a basic chatbot using [Chainlit](https://docs.chai
 
 ## 📂 Code Overview
 
-```python
+
 import chainlit as ct
 
 @ct.on_message
@@ -68,7 +68,7 @@ Bot:  You said Hello!
 
 ## 🧑 Author
 
-Developed by **Your Name**.
+Developed by **Hafiz Siddiqui**.
 For more about Chainlit, see [https://docs.chainlit.io](https://docs.chainlit.io).
 
 ```
