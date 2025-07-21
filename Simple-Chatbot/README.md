@@ -1,4 +1,3 @@
-````markdown
 # 💬 Simple Echo Bot with Chainlit
 
 This is a minimal **Chainlit application** that echoes back whatever the user sends.
